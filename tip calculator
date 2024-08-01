@@ -1,0 +1,4 @@
+#calculadora de propinas
+cliente = int(input())
+propina = cliente * 0.20
+print(float(propina))
